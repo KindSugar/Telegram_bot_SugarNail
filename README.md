@@ -136,3 +136,26 @@ python reset_database.py
 ```
 ## Скриншоты работы бота
 
+ __Запуск бота__ - команда ```/start```
+
+ <img width="233" height="500" alt="1" src="https://github.com/user-attachments/assets/27682faa-8790-4959-975e-47317d39799c" />
+
+
+ __Информация о салоне__ - соответствующие кнопки меню
+
+ <img width="233" height="500" alt="1" src="https://github.com/user-attachments/assets/7ee38d1e-3a59-4ebd-97be-e38ce3ed0686" />
+
+    
+__Активация админ-панели__ - команда ```/moderator```
+
+ <img width="233" height="500" alt="1" src="https://github.com/user-attachments/assets/1aec6224-e640-4cc9-9d8e-a3c027a67325" /> 
+
+____Управление услугами__
+
+ <img width="233" height="500" alt="1" src="https://github.com/user-attachments/assets/012c4b97-979d-4b1a-a70c-1edf2981e1ed" /> 
+
+__Обновление списка запрещенных слов__
+
+ <img width="233" height="500" alt="1" src="https://github.com/user-attachments/assets/66e161d1-8407-4625-8668-c1e20b5a82af" /> 
+
+
